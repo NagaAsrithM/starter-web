@@ -10,3 +10,7 @@ showing how to use Git and Github together.
  
 ## Deployment
 This is a simple web project ,deployment can be done on any web server or even local file system.
+
+##Copyright
+
+Git Training
